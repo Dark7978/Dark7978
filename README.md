@@ -2,10 +2,14 @@
 **`JavaScript & Python Developer | Game Creator | Code Enthusiast`**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7BF7A5&center=true&vCenter=true&width=435&lines=Passionate+Developer;Game+Creator;Python+%26+JavaScript+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7BF7A5&center=true&vCenter=true&width=435&lines=Passionate+Developer;Game+Creator;Python+%26+JavaScript+Expert;Building+Amazing+Games;Crafting+Digital+Experiences;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
-I'm a passionate developer crafting immersive experiences through code. Specializing in Python and JavaScript, I transform ideas into interactive games and applications. Let's build something amazing together! 🚀
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dark7978/Dark7978/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+I'm a passionate developer crafting immersive experiences through code. Specializing in Python and JavaScript, I transform ideas into interactive games and applications. Let's build something amazing together! 🚀 
 
 <div align="center">
    <p>
@@ -33,7 +37,17 @@ I'm a passionate developer crafting immersive experiences through code. Speciali
   <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dark7978&theme=radical&hide_border=true" />
+</div>
+
 ### 🎮 Latest Creation
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dark7978&repo=YOUR-GAME-REPO&theme=radical" />
+  <!-- Commented out due to error -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dark7978&repo=YOUR-GAME-REPO&theme=radical" /> -->
+  <p>⚠️ Repository stats temporarily unavailable. Please check back later!</p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
