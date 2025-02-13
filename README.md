@@ -11,6 +11,11 @@
 
 I'm a passionate developer crafting immersive experiences through code. Specializing in Python and JavaScript, I transform ideas into interactive games and applications. Let's build something amazing together! 🚀 
 
+### 🌐 Join Our Discord Communities!
+- 🇬🇧 [English](https://discord.gg/tkc7jjKSQf)
+- 🇬🇧 [English](https://discord.gg/6eJd8HgR)
+- 🇵🇱 [Polish](https://discord.gg/QYqmRCrUpV)
+
 <div align="center">
    <p>
       <a href="https://github.com/Dark7978?tab=followers">
