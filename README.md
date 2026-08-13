@@ -1,53 +1,33 @@
-# 🎮 Dark7978
-**`JavaScript & Python Developer | Game Creator | Code Enthusiast`**
+# Dark7978
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7BF7A5&center=true&vCenter=true&width=435&lines=Passionate+Developer;Game+Creator;Python+%26+JavaScript+Expert;Building+Amazing+Games;Crafting+Digital+Experiences;Always+Learning+%26+Growing" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dark7978/Dark7978/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-I'm a passionate developer crafting immersive experiences through code. Specializing in Python and JavaScript, I transform ideas into interactive games and applications. Let's build something amazing together! 🚀 
-
-<div align="center">
-   <p>
-      <a href="https://github.com/Dark7978?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Dark7978?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Dark7978?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Dark7978?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://github.com/Dark7978/Simple-View-Counter">
-        <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Dark7978&style=for-the-badge&color=lightgrey"/></a>
-      <a href="https://github.com/Dark7978?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/Dark7978"/></a>
-   </p>
-</div>
+**IT & networking — I fix the things people bring me, and I build small stuff on the side.**
 
 ---
 
-### 🛠️ Tech Arsenal
+### What I actually do
 
-<div align="center">
-  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
+**Tech support / troubleshooting**
+PCs, laptops, phones — diagnosing what's wrong, OS and driver issues, reinstalls,
+hardware swaps, cleanup and recovery. Most of what I know came from fixing real
+machines for real people, not from a course.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dark7978&theme=radical&hide_border=true" />
-</div>
+**Networking**
+Home and small-network troubleshooting — routers, Wi-Fi coverage and interference,
+DNS and IP issues, port forwarding, figuring out why "the internet is down" when it
+isn't. Tracing a problem from the device back to the gateway.
 
-### 🎮 Latest Creation
-<div align="center">
-  <!-- Commented out due to error -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dark7978&repo=YOUR-GAME-REPO&theme=radical" /> -->
-  <p>⚠️ Repository stats temporarily unavailable. Please check back later!</p>
-</div>
+**Building things**
+I'm a vibe coder — I work with AI tools to build what I need and learn as I go.
+Mostly web stuff in JavaScript/TypeScript and Python. I'd rather ship something
+that works than argue about the right way to do it.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+---
+
+### Tools I'm around
+
+`Windows` `Linux` `JavaScript` `TypeScript` `Python` `Git`
+`Networking` `Hardware repair` `Command line`
+
+---
+
+Still learning, always breaking something new.
