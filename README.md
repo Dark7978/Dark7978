@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Dark7978&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=IT%20%C2%B7%20Networking%20%C2%B7%20Building%20things&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Shadow&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=IT%20%C2%B7%20Networking%20%C2%B7%20Building%20things&descAlignY=55&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Troubleshooting+PCs%2C+phones+and+everything+else;Fixing+networks+that+swear+they're+fine;Building+with+AI%2C+learning+as+I+go" alt="typing" />
 
