@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Shadow&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=IT%20%C2%B7%20Discord%20bots%20%C2%B7%20Games%20%C2%B7%20Vibe%20coding&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Troubleshooting+PCs%2C+phones+and+everything+else;Fixing+networks+that+swear+they're+fine;Discord+bots%2C+games%2C+and+whatever+I+want+to+build;Vibe+coding+%E2%80%94+ship+it%2C+then+learn+why+it+works" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Helping+with+PCs%2C+phones%2C+and+Wi-Fi;Fixing+networks+that+swear+they're+fine;Discord+bots%2C+games%2C+and+whatever+I+want+to+build;Vibe+coding+%E2%80%94+ship+it%2C+then+learn+why+it+works" alt="typing" />
 
 <br/>
 
@@ -16,15 +16,14 @@
 ## `>` whoami
 
 ```text
-Role      : IT support & networking
-Style     : hands-on — I learn by fixing real machines, not from a course
-Currently : hardware, networks, Discord bots, games, vibe coding
+Role      : IT help, Discord bots, games
+Style     : hands-on — I learn by doing, not from a course
+Currently : helping people with devices, building bots and games, vibe coding
 ```
 
-I'm the person you hand a broken laptop to. Most of what I know came from taking
-things apart, breaking them worse, and then figuring out how to put them back.
-I also vibe code — Discord bots, games, and random tools. I use AI to build the
-things I want and pick up the fundamentals along the way.
+I'm who people call when a PC, phone, or Wi-Fi is acting up. I figure it out,
+get it working, and move on. I also vibe code — Discord bots, games, and random
+tools. I use AI to build the things I want and pick up the rest as I go.
 
 <br/>
 
@@ -35,13 +34,13 @@ things I want and pick up the fundamentals along the way.
 <td width="50%" valign="top">
 
 ### Tech support
-Diagnosing what's actually wrong with a machine.
+Everyday problems, not firmware deep-dives.
 
-- Windows install, repair, and recovery
-- Driver, boot and BSOD issues
-- Hardware swaps — drives, RAM, batteries
-- Phone troubleshooting and setup
-- Malware cleanup, data recovery, backups
+- Windows setup, updates, and "it just stopped working"
+- Software installs, logins, printers, and settings
+- Phones: setup, apps, accounts, and connections
+- Helping friends and family actually use the thing
+- Backups when someone is scared they lost files
 
 </td>
 <td width="50%" valign="top">
