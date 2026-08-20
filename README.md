@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Shadow&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=IT%20%C2%B7%20Networking%20%C2%B7%20Building%20things&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Shadow&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=IT%20%C2%B7%20Discord%20bots%20%C2%B7%20Games%20%C2%B7%20Vibe%20coding&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Troubleshooting+PCs%2C+phones+and+everything+else;Fixing+networks+that+swear+they're+fine;Building+with+AI%2C+learning+as+I+go" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Troubleshooting+PCs%2C+phones+and+everything+else;Fixing+networks+that+swear+they're+fine;Discord+bots%2C+games%2C+and+whatever+I+want+to+build;Vibe+coding+%E2%80%94+ship+it%2C+then+learn+why+it+works" alt="typing" />
 
 <br/>
 
@@ -18,12 +18,12 @@
 ```text
 Role      : IT support & networking
 Style     : hands-on — I learn by fixing real machines, not from a course
-Currently : troubleshooting hardware, untangling networks, building with AI
+Currently : hardware, networks, Discord bots, games, vibe coding
 ```
 
 I'm the person you hand a broken laptop to. Most of what I know came from taking
 things apart, breaking them worse, and then figuring out how to put them back.
-Lately I'm doing more building than fixing — I work with AI tools to make the
+I also vibe code — Discord bots, games, and random tools. I use AI to build the
 things I want and pick up the fundamentals along the way.
 
 <br/>
@@ -57,6 +57,28 @@ Getting connections working and keeping them there.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Discord bots
+Bots that actually sit in a server and do work.
+
+- Tickets, AutoMod, and staff tools
+- Music playback and voice
+- Open source: [Chilz](https://github.com/Dark7978/chilz-discord-bot)
+
+</td>
+<td width="50%" valign="top">
+
+### Games & vibe coding
+Making stuff I want to exist.
+
+- Games in Unity, including VR
+- Small tools and side projects
+- Vibe coding: build first, learn the why as I go
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -84,6 +106,8 @@ Getting connections working and keeping them there.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
